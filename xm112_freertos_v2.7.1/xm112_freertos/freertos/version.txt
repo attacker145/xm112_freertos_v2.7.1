@@ -1,0 +1,2 @@
+This file was manually added and the version is:
+FreeRTOSv10.1.1

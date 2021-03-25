@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['gain_5fstep',['GAIN_STEP',['../ref__app__tank__level_8c.html#a4f9113da4b3f6c00b0a632890cdc7e61',1,'ref_app_tank_level.c']]],
+  ['generic_20service_20api',['Generic Service API',['../group__Generic.html',1,'']]],
+  ['get_5freference_5ffrequency',['get_reference_frequency',['../structacc__integration__sensor__device__t.html#aba884cf689234fd34bf540a740aba784',1,'acc_integration_sensor_device_t']]],
+  ['gettime',['gettime',['../structacc__integration__os__primitives__t.html#a4d788c3fe60835e11169c6aa9f760734',1,'acc_integration_os_primitives_t']]]
+];
